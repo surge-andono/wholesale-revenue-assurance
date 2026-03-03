@@ -6,7 +6,7 @@ This dashboard is designed to answer critical business questions in under 30 sec
 * **Goal**: Measure the percentage of network traffic successfully billed.
 * **Narrative**: "Our current integrity score is **96%**. 
   
-  Given the scale of XL Axiata's operations, a 4% gap represents significant unbilled revenue. 
+  Given the scale of Telco operations, a 4% gap represents significant unbilled revenue. 
   
   Our industry target is **>99%**, making this our primary focus for system optimization."
 
